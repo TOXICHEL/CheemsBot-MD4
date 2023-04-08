@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201098906252'] //ur owner number
-global.ownername = "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫" //ur owner name
+global.vcardowner = ['20112657165'] //ur owner number
+global.ownername = "𝑾𝒘 𝑬𝒆 𝑮𝒈 𝒁𝒛❤‍🔥🫵🏻 ٫" //ur owner name
 global.ytname = "YT: Elgazar" //ur yt chanel name
 global.socialm = "GitHub: Elgazar" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
+global.owner = ['201126578165']
+global.ownertag = '201126578165' //ur tag number
+global.botname = '𝑾𝒘 𝑬𝒆 𝑮𝒈 𝒁𝒛❤‍🔥 BOT ٫' //ur bot name
 global.linkz = "https://telegra.ph/file/f504bef433c8fd31d1674.jpg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/f504bef433c8fd31d1674.jpg" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/Gb62eN2S5yI9mhfdn6Ma4z' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣ 01098906252 ⍣" //ur sticker watermark author
+global.packname = "⍣ ويجز الوزير يروحي ⍣" //ur sticker watermark packname
+global.author = "⍣ 01126578165 ⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201098906252'] //ur premium numbers
+global.premium = ['201126578165'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
